@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevin-rakoto
 - 👀 I’m interested in developer.
-- 🌱 I’m currently learning front-end and serveur-side web.
+- 🌱 I’m currently learning developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
