@@ -19,12 +19,12 @@
     <tr>
       <td style="width: 50%; height: 200px;">
         <a href="https://github.com/kevin-rakoto">
-           <img alt="Total contributions" title="My total GitHub contributions" src="https://github-readme-stats-Kevin-rakotos-projects.vercel.app/api?username=Kevin-rakoto&show_icons=true&count_private=true&theme=outrun&bg_color=0D1117&border_color=0D1117" />
+           <img alt="Total contributions" title="My total GitHub contributions" src="https://github-readme-stats-kevin-rakotos-projects.vercel.app/api?username=kevin-rakoto&show_icons=true&count_private=true&theme=outrun&bg_color=0D1117&border_color=0D1117" />
         </a>
       </td>
       <td style="width: 50%; height: 200px;">
-        <a href="https://github.com/Kevin-rakoto">
-          <img src="https://streak-stats.demolab.com//?user=Kevin-rakoto&theme=outrun&background=0D1117&border=0D1117&count_private=true&hide_title=true" alt="GitHub Streak">
+        <a href="https://github.com/kevin-rakoto">
+          <img src="https://streak-stats.demolab.com//?user=kevin-rakoto&theme=outrun&background=0D1117&border=0D1117&count_private=true&hide_title=true" alt="GitHub Streak">
         </a>
       </td>
     </tr>
@@ -33,12 +33,12 @@
       <tr>
          <td>
          <a href="https://github.com/jamesgeorge007/github-activity-readme">
-  <img src="https://github-readme-activity-graph-lake-nine.vercel.app//graph?username=Kevin-rakoto&theme=react-dark&area=true&hide_title=true&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph-lake-nine.vercel.app//graph?username=kevin-rakoto&theme=react-dark&area=true&hide_title=true&hide_border=true" alt="Activity Graph">
 </a>
          </td>
          <td>
-      <a href="https://github.com/Kevin-rakoto/github-readme-stats">
-          <img src="https://github-readme-stats-seven-chi-88.vercel.app/api/top-langs/?username=Kevin-rakoto&theme=outrun&count_private=true&layout=pie&bg_color=0D1117&border_color=0D1117&hide_title=false&text_bold=true&langs_count=12&&hide=php,Procfile,javascript,dockerfile,html,css,glsl" alt="Top Languages">
+      <a href="https://github.com/kevin-rakoto/github-readme-stats">
+          <img src="https://github-readme-stats-seven-chi-88.vercel.app/api/top-langs/?username=kevin-rakoto&theme=outrun&count_private=true&layout=pie&bg_color=0D1117&border_color=0D1117&hide_title=false&text_bold=true&langs_count=12&&hide=php,Procfile,javascript,dockerfile,html,css,glsl" alt="Top Languages">
         </a>
    </td>
    </tr>
