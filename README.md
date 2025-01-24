@@ -5,7 +5,7 @@
 
 ---
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,lua,html,js,css" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,html,js,css" /><br>
     <img src="https://skillicons.dev/icons?i=unity,git,github,docker,vscode,linux" />
    <p></p>
  
@@ -24,7 +24,7 @@
       </td>
       <td style="width: 50%; height: 200px;">
         <a href="https://github.com/smallghost42">
-          <img src="https://streak-stats.demolab.com//?user=smallghost42&theme=outrun&background=0D1117&border=0D1117&count_private=true&hide_title=true" alt="GitHub Streak">
+          <img src="https://streak-stats.demolab.com//?user=kevin-rakoto&theme=outrun&background=0D1117&border=0D1117&count_private=true&hide_title=true" alt="GitHub Streak">
         </a>
       </td>
     </tr>
@@ -33,12 +33,12 @@
       <tr>
          <td>
          <a href="https://github.com/jamesgeorge007/github-activity-readme">
-  <img src="https://github-readme-activity-graph-lake-nine.vercel.app//graph?username=smallghost42&theme=react-dark&area=true&hide_title=true&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph-lake-nine.vercel.app//graph?username=kevin-rakoto&theme=react-dark&area=true&hide_title=true&hide_border=true" alt="Activity Graph">
 </a>
          </td>
          <td>
-<!--       <a href="https://github.com/kevin-rakoto/github-readme-stats">
-          <img src="https://github-readme-stats-seven-chi-88.vercel.app/api/top-langs/?username=smallghost42&theme=outrun&count_private=true&layout=pie&bg_color=0D1117&border_color=0D1117&hide_title=false&text_bold=true&langs_count=12&&hide=php,Procfile,javascript,dockerfile,html,css,glsl" alt="Top Languages"> -->
+      <a href="https://github.com/kevin-rakoto/github-readme-stats">
+          <img src="https://github-readme-stats-seven-chi-88.vercel.app/api/top-langs/?username=kevin-rakoto&theme=outrun&count_private=true&layout=pie&bg_color=0D1117&border_color=0D1117&hide_title=false&text_bold=true&langs_count=12&&hide=php,Procfile,javascript,dockerfile,html,css,glsl" alt="Top Languages">
         </a>
    </td>
    </tr>
