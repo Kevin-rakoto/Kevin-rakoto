@@ -1,17 +1,4 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   14 hrs 18 mins  ████████████████▒░░░░░░░░   65.36 %
-JavaScript   6 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   31.58 %
-HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-```
-
-<!--END_SECTION:waka-->
+for freelance work? do reach, [email](mailto:andriantsoasafidy89@gmail.com) :)
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
